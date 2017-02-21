@@ -1,0 +1,3 @@
+# MetaBox
+MetaBox is a form application(c#).Genarates simple meta codes for your html pages.
+Add your meta parameters than click "genarete" button.Thats it.Simple and easy...
