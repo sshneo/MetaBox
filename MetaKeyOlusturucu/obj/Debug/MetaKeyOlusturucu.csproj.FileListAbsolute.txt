@@ -1,0 +1,9 @@
+c:\users\developer\documents\visual studio 2015\Projects\MetaKeyOlusturucu\MetaKeyOlusturucu\bin\Debug\MetaKeyOlusturucu.exe.config
+c:\users\developer\documents\visual studio 2015\Projects\MetaKeyOlusturucu\MetaKeyOlusturucu\bin\Debug\MetaKeyOlusturucu.exe
+c:\users\developer\documents\visual studio 2015\Projects\MetaKeyOlusturucu\MetaKeyOlusturucu\bin\Debug\MetaKeyOlusturucu.pdb
+c:\users\developer\documents\visual studio 2015\Projects\MetaKeyOlusturucu\MetaKeyOlusturucu\obj\Debug\MetaKeyOlusturucu.csprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2015\Projects\MetaKeyOlusturucu\MetaKeyOlusturucu\obj\Debug\MetaKeyOlusturucu.Form1.resources
+c:\users\developer\documents\visual studio 2015\Projects\MetaKeyOlusturucu\MetaKeyOlusturucu\obj\Debug\MetaKeyOlusturucu.Properties.Resources.resources
+c:\users\developer\documents\visual studio 2015\Projects\MetaKeyOlusturucu\MetaKeyOlusturucu\obj\Debug\MetaKeyOlusturucu.csproj.GenerateResource.Cache
+c:\users\developer\documents\visual studio 2015\Projects\MetaKeyOlusturucu\MetaKeyOlusturucu\obj\Debug\MetaKeyOlusturucu.exe
+c:\users\developer\documents\visual studio 2015\Projects\MetaKeyOlusturucu\MetaKeyOlusturucu\obj\Debug\MetaKeyOlusturucu.pdb
