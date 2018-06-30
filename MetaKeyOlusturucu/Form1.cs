@@ -19,7 +19,11 @@ namespace MetaKeyOlusturucu
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            /*
+             @author:
+             @developer:Halil ŞAHİN
+             
+             */
             richTextBox1.Text += "<html>\n";
             richTextBox1.Text += "<head>\n";
 
